@@ -1,0 +1,1 @@
+Per my last commit, this was working. My confidence remains 0.99, and the logs show no errors — production just changed without telling me first.
